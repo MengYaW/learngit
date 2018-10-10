@@ -1,4 +1,5 @@
 Git is a version control system.
-Git id free sonftware.
+Git is free sonftware.
 Hello World!!  
 I am happy!
+edit txt
